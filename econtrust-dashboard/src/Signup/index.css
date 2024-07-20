@@ -1,0 +1,76 @@
+.formsheet{
+    background-color: #0E685A;
+    border-top-left-radius: 130px;
+    display: flex;
+     
+}
+.formsheet{
+    height: 976px;
+}
+
+.submit{
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 350%;
+}
+
+.signuptext{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+
+.inputfield{
+  display: grid;
+  gap: 25%;
+  padding-top: 50px;
+  height: 180px;
+  background-color: #0E685A;
+  
+  
+   
+}
+.growtea{
+    height: 973.5px;
+}
+.input{
+    height: 200%;
+    width: 820%;
+
+}
+
+
+@media screen and (min-width:280px) and (max-width:359px) {
+    .growtea{
+        height: 673.5px;
+        width: 677.5px;
+    }
+    
+
+    .formsheet{
+        background-color: #0E685A;
+        border-top-left-radius: 130px;
+        height: 1748.5px;
+        display: grid;
+         
+    }
+
+    .inputfield{
+        display: grid;
+        gap: 25%;
+        height: 180px;
+        padding-bottom: 720px;
+        margin-left: 10%
+           
+      }
+
+      .input{
+        width: 470px;
+      }
+
+
+    
+
+}
