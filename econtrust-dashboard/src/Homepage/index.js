@@ -15,7 +15,7 @@ function Homepage() {
             </div>
 
             <div className='econlogo'>
-                <img className='econlogo' src={logo} alt='logo'/> {/* Assuming logo is defined somewhere */}
+                <img className='econlogo' src={logo} alt='logo'/> {}
             </div>
 
             <div className='button'>

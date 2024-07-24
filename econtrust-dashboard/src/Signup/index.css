@@ -12,7 +12,7 @@
     width: 130px;
     height: 40px;
     border-radius: 10px;
-    margin-left: 350%;
+    margin-left: 208%;
 }
 
 .signuptext{
@@ -37,7 +37,8 @@
 }
 .input{
     height: 200%;
-    width: 820%;
+    width: 520%;
+    margin-left: 25px;
 
 }
 
@@ -57,17 +58,22 @@
          
     }
 
+
+    .submit{
+        margin-left: 130px;
+    }
+
     .inputfield{
         display: grid;
-        gap: 25%;
-        height: 180px;
+        gap: 20%;
+        height: 155px;
         padding-bottom: 720px;
-        margin-left: 10%
-           
+        width: 20px;
+        margin-left: -1%      
       }
 
       .input{
-        width: 470px;
+        width: 400px;
       }
 
 
